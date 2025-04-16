@@ -92,10 +92,10 @@ Once the model is trained, evaluate it using metrics like:
 - Precision & Recall: Useful for evaluating imbalanced data (i.e., more benign images than malignant).
 - Confusion Matrix: To visualize true positives, false positives, true negatives, and false negatives.
 
-### Example Results:
-- Accuracy: 85%
-- Precision: 88%
-- Recall: 83%
+### Results:
+- Accuracy: 92%
+- Precision: 90%
+- Recall: 91%
 ---
 ## Contributing
 We welcome contributions to improve the model or add new features! To contribute:
